@@ -114,6 +114,9 @@
   color: white;
 }
 
+.about-item:hover i {
+  transform: translateY(-20px);
+}
 /* ========================================================
                           objectives
     ========================================================*/
@@ -145,6 +148,13 @@
   color: #f4f4f4;
 }
 
+.objective-item:hover i {
+  transform: translateY(-20px);
+}
+
+#section4 i {
+  color: #000;
+}
 /*-------------------------------------------section2 - services------------------------------------------------------*/
 
 /*service card system*/
